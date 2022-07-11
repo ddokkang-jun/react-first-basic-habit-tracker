@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ddokkang-jun/react-first-basic-habit-tracker/static/css/main.bd101b53.css",
+    "main.js": "/ddokkang-jun/react-first-basic-habit-tracker/static/js/main.ed921172.js",
+    "index.html": "/ddokkang-jun/react-first-basic-habit-tracker/index.html",
+    "main.bd101b53.css.map": "/ddokkang-jun/react-first-basic-habit-tracker/static/css/main.bd101b53.css.map",
+    "main.ed921172.js.map": "/ddokkang-jun/react-first-basic-habit-tracker/static/js/main.ed921172.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd101b53.css",
+    "static/js/main.ed921172.js"
+  ]
+}
